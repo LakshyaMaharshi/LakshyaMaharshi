@@ -1,99 +1,83 @@
-# 👋 Hello, World! I'm **Lakshya Maharshi**  
-Welcome to my GitHub! 🚀  
+<h1 align="center">👋 Hi, I'm Lakshya</h1>
 
-I'm a **Fullstack Developer** and **Data Analyst** with a passion for building innovative web experiences and making data meaningful.  
-Let's create something amazing together! ✨  
+<p align="center">Welcome to my GitHub! I'm a <b>Fullstack Developer</b> and <b>Data Analyst</b> passionate about crafting innovative solutions through clean code, interactive user interfaces, and data-driven insights.</p>
 
 ---
 
-## 🌟 **About Me**  
+<h3 align="center">🛠️ Tech Stack</h3>
 
-- 💻 **Frontend Developer Intern** at **JPR Systems Pvt. Ltd.**  
-  - Specialized in **React** & **React Native** for dynamic, responsive interfaces.  
-  - Mastered animations with **GSAP** & **Three.js**.  
-  - Collaborated with teams to deliver innovative web and mobile applications.  
+<h4 align="left">Frontend:</h4>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="React" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="Tailwind CSS" />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="40" alt="Bootstrap" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=threejs" height="40" alt="Three.js" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="JavaScript" />
+</div>
 
-- 📖 **Currently Learning**:  
-  - **Fullstack Development (MERN)**  
-  - **Data Analytics & Visualizations**  
+<h4 align="left">Backend:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="40" alt="Node.js" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="40" alt="Express.js" />
+</div>
 
-- 🎯 **Focused On**:  
-  - Mastering **Aptitude and Reasoning** for logical thinking.  
+<h4 align="left">Database:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="MongoDB" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="MySQL" />
+</div>
 
----
-
-## 🛠️ **Tech Stack**  
-
-### **Frontend**  
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white)  
-
-### **Animations & Graphics**  
-![GSAP](https://img.shields.io/badge/GSAP-%2388CE02.svg?style=for-the-badge&logo=greensock&logoColor=black)  
-![Three.js](https://img.shields.io/badge/Three.js-%23000000.svg?style=for-the-badge&logo=three.js&logoColor=white)  
-
-### **Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)  
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)  
-
-### **Database**  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%2300599C.svg?style=for-the-badge&logo=azure-sql-database&logoColor=white)  
-
-### **Tools & Platforms**  
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)  
-![Tableau](https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white)  
-
----
-
-## 🌟 **Featured Projects**  
-Here are some of my favorite projects:  
-
-- **[Project Name 1](#)**  
-  _Description_: A web application built using **React**, **GSAP**, and **Tailwind CSS** for smooth animations and UI design.  
-  _Technologies_: React, GSAP, Tailwind CSS  
-
-- **[Project Name 2](#)**  
-  _Description_: A data visualization dashboard created with **Tableau** and backend integration using **Node.js** and **MongoDB**.  
-  _Technologies_: Tableau, Node.js, MongoDB  
+<h4 align="left">Tools & Platforms:</h4>
+<div align="left">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="40" alt="Git" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" height="40" alt="GitHub" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Eclipse-%232C2255.svg?style=for-the-badge&logo=eclipse&logoColor=white" height="40" alt="Eclipse" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="40" alt="VS Code" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" height="40" alt="Postman" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" height="40" alt="Figma" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB_Compass-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" height="40" alt="MongoDB Compass" />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Tableau-%23E97627.svg?style=for-the-badge&logo=tableau&logoColor=white" height="40" alt="Tableau" />
+</div>
 
 ---
 
-## 📊 **GitHub Stats**  
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyamaharshi&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=lakshyamaharshi&theme=radical" alt="GitHub Streak" />
-</p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshyamaharshi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 **Let's Connect**  
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/lakshya-maharshi-056006309)  
-- 🌐 [Portfolio](#)  
-- 📧 [Email Me](mailto:lakshyamaharshi007@gmail.com)  
+<h3 align="center">📫 Let's Connect</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/lakshya-maharshi-056006309" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lakshyamaharshi007@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="Gmail" />
+  </a>
+  <a href="https://www.instagram.com/mai_lakshya_hoon/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="Instagram" />
+  </a>
+</div>
 
 ---
-
-Thank you for visiting my profile! Feel free to explore my repositories and connect with me to discuss opportunities or collaborations. 😊  
 
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyamaharshi&show_icons=true&locale=en&layout=compact" alt="lakshyamaharshi" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyamaharshi&show_icons=true&locale=en" alt="lakshyamaharshi" /></p>
+
+<p align="center">Thank you for visiting my profile! Feel free to explore my repositories and connect with me to discuss opportunities or collaborations. 😊</p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshyamaharshi&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyamaharshi" /> </p>
