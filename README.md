@@ -98,20 +98,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakshyamaharshi&show_icons=true&locale=en&layout=compact" alt="lakshyamaharshi" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshyamaharshi&show_icons=true&locale=en" alt="lakshyamaharshi" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lakshyamaharshi&show_icons=true&locale=en" alt="lakshyamaharshi" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LakshyaMaharshi&show_icons=true&locale=en&layout=compact" alt="LakshyaMaharshi" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LakshyaMaharshi&show_icons=true&locale=en" alt="LakshyaMaharshi" />
-</p>
+<br><br><br> 
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LakshyaMaharshi&" alt="LakshyaMaharshi" />
 </p>
-
 
 <p align="center">Thank you for visiting my profile! Feel free to explore my repositories and connect with me to discuss opportunities or collaborations. 😊</p>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=lakshyamaharshi&label=Profile%20views&color=0e75b6&style=flat" alt="lakshyamaharshi" /> </p>
