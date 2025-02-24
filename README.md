@@ -7,7 +7,7 @@
 </p>
 
 <h3 align="center">🛠️ Technical Expertise</h3>
-<img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right">
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZoYWcydHo0M2hqMjNsY2dobGxkNTB3M3d1d29yZ21lZmExYnpxaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MdA16VIoXKKxNE8Stk/giphy.gif" min-width="300px" max-width="300px" width="350px" align="right">
 
 <!-- Frontend Development -->
 <h4 align="left">Frontend Development:</h4>
