@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Lakshya Maharshi</h1>
-<h2 align="center"><b>Fullstack Developer</b> | <b>Data Analyst</b></h2>
+<h2 align="center"><b>Fullstack Developer</b> | <b>Data Analyst</b> </h2>
 
 <p align="center">
   Welcome to my GitHub profile. I specialize in building scalable web applications and deriving actionable insights from data. 
