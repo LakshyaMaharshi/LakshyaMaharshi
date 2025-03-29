@@ -52,8 +52,10 @@ Welcome to my GitHub profile! I specialize in building scalable web applications
 
 ---
 
-### 📊 2025 Lang Stats
-![WakaTime Stats](https://github.com/lakshyamaharshi/lakshyamaharshi/workflows/WakaTime%20Stats/badge.svg)
+### 📊 Current week lang. Stats
+
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=lakshPro&layout=compact&theme=radical)
+
 
 
 
